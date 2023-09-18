@@ -2,7 +2,7 @@
 
   <div class="wrapper">
     <!-- https://stackoverflow.com/questions/13266369/how-to-change-the-default-order-pages-in-jekyll -->
-    {%- assign sorted_pages = site.pages | sort:"order" -%}
+    <!-- {%- assign sorted_pages = site.pages | sort:"order" -%} -->
     {%- assign default_paths = sorted_pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <div class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</div>

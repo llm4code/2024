@@ -129,7 +129,7 @@
  */
 .site-footer {
   border-top: 1px solid $border-color-01;
-  padding: $spacing-unit / 2;
+  padding: $spacing-unit / 2 0;
 }
 
 .footer-heading {
@@ -187,17 +187,6 @@
 
   .footer-col {
     width: calc(100% - (#{$spacing-unit} / 2));
-    padding: 0 ($spacing-unit * .5);
-
-    &:first-child {
-      padding-right: $spacing-unit * .5;
-      padding-left: 0;
-    }
-
-    &:last-child {
-      padding-right: 0;
-      padding-left: $spacing-unit * .5;
-    }
   }
 }
 
