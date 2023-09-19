@@ -4,15 +4,7 @@ layout: home
 permalink: /program/
 ---
 
-<style>
-    .headerless th {
-        display: none;
-    }
-</style>
-
-<div class="headerless">
-
-| | |
+| Time | Session |
 |-------------------|--------------------------------|
 | 8:30am - 9:00am   | _Workshop Opening_             |
 | 9:00am - 10:00am  | **Ketnote Talk 1**             |
@@ -25,4 +17,3 @@ permalink: /program/
 | 4:00pm - 4:30pm   | _Coffee Break_                 |
 | 4:30pm - 5:30pm   | _Panel Discussion_             |
 | 5:30pm - 5:50pm   | _Workshop Closing_             |
-</div>
