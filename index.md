@@ -8,9 +8,18 @@ layout: home
 
 Large Language Models (LLMs) have shown astonishing capabilities in diverse domains, including Software Engineering (SE). Recently, there is a growing interest in applying LLMs to assist software development and maintenance, such as code generation and comprehension, test generation, as well as program repair. Although the application of LLMs on code-relevant tasks has shown very promising performance, there is a huge potential to further explore this rapidly growing domain.
 
-The motivation of this workshop is to provide a platform for academics and practitioners to discuss and share their ideas on applying and developing LLMs to solve code-relevant problems in SE activities. This workshop is concerned with the research on (i) how to better apply LLMs to solve code-relevant tasks, (ii) how to design better LLMs for code-relevant tasks, and (iii) how to better benchmark LLMs on code-relevant tasks.
+The motivation of this workshop is to provide a platform for academics and practitioners to discuss and share their ideas on applying and developing LLMs to solve code-relevant problems in SE activities. This workshop is concerned with the research on
 
-This workshop aims to achieve multiple goals by providing a platform for participants from different backgrounds (such as academia and industry, SE and AI) to exchange views and perspectives in this domain. Firstly, this workshop aims to provide an opportunity for participants to discuss novel ideas and preliminary results on LLMs for solving code-relevant SE problems, so as to exchange the latest progress in this domain. Secondly, this workshop aims to encourage participants to discuss the open challenges and problems of LLM4code, so as to identify important future directions in this domain. Finally, this workshop aims to encourage participants to share infrastructures and benchmarks that are foundational and beneficial for the future research in this domain. This workshop aims to foster (i) open research problems to pursue, (ii) new tech- niques or new tools on LLM4Code, (iii) benchmarks and datasets for LLM4Code, and (iv) empirical studies on LLM4Code.
+- *how to better apply LLMs to solve code-relevant tasks;*
+- *how to design better LLMs for code-relevant tasks;*
+- *how to better benchmark LLMs on code-relevant tasks.*
+
+This workshop aims to achieve multiple goals by providing a platform for participants from different backgrounds (such as academia and industry, SE and AI) to exchange views and perspectives in this domain. Firstly, this workshop aims to provide an opportunity for participants to discuss novel ideas and preliminary results on LLMs for solving code-relevant SE problems, so as to exchange the latest progress in this domain. Secondly, this workshop aims to encourage participants to discuss the open challenges and problems of LLM4code, so as to identify important future directions in this domain. Finally, this workshop aims to encourage participants to share infrastructures and benchmarks that are foundational and beneficial for the future research in this domain. This workshop aims to foster
+
+- *open research problems to pursue;*
+- *new techniques or new tools on LLM4Code;*
+- *benchmarks and datasets for LLM4Code;*
+- *empirical studies on LLM4Code.*
 
 To achieve these goals, this workshop will be scheduled with diverse event formats, including keynote talks, research paper presentations, and panel discussion. We believe that this workshop will provide abundant opportunities for both academic and industrial participants to discuss not only in the specific works but also in the high-level directions of this area.
 

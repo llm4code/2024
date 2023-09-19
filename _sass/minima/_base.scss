@@ -32,6 +32,11 @@ body {
   min-height: 100vh;
   flex-direction: column;
   overflow-wrap: break-word;
+  text-align: justify;
+  -ms-hyphens: auto; 
+  -moz-hyphens: auto; 
+  -webkit-hyphens: auto; 
+  hyphens: auto;
 }
 
 
@@ -141,16 +146,16 @@ blockquote {
   color: $brand-color;
   border-left: 4px solid $border-color-01;
   padding-left: $spacing-unit * .5;
-  @include relative-font-size(1.125);
-  font-style: italic;
+  // @include relative-font-size(1.125);
+  // font-style: italic;
 
   > :last-child {
     margin-bottom: 0;
   }
 
-  i, em {
-    font-style: normal;
-  }
+  // i, em {
+  //   font-style: normal;
+  // }
 }
 
 

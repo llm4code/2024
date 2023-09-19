@@ -8,43 +8,41 @@ permalink: /call/
 
 This workshop accepts (not limited to) the submissions of the following topics:
 
-* LLM applications on code-relevant tasks:
-    * LLM-based code generation
-    * LLM-based fuzzing test
-    * LLM-based test generation
-    * LLM-based GUI testing
-    * LLM-based mobile application testing
-    * LLM-based fault localization
-    * LLM-based program repair
-    * LLM-based vulnerability detection
-    * LLM-based code maintenance
-    * LLM-based program analysis
-    * LLM-based code comprehension
-    * LLM-based reverse engineering
-    * LLM-based code evolution and maintenance
-    * LLM-based refactor
-
-* Datasets and Evaluation
-    * Datasets for LLM4Code training
-    * Datasets for LLM4Code evaluation
-    * Automated dataset generation/augmentation
-    * Empirical studies on LLM4Code
-
-* Model design and optimization on LLM4Code
-    * Model architecture design
-    * Model hyperparameter tuning
-    * Prompt tuning and prompt engineering
-    * Pretraining objective design
-    * Model alignment
-    * Model optimization/distillation/quantization
+- **LLM applications on code-relevant tasks**
+    - LLM-based code generation
+    - LLM-based fuzzing test
+    - LLM-based test generation
+    - LLM-based GUI testing
+    - LLM-based mobile application testing
+    - LLM-based fault localization
+    - LLM-based program repair
+    - LLM-based vulnerability detection
+    - LLM-based code maintenance
+    - LLM-based program analysis
+    - LLM-based code comprehension
+    - LLM-based reverse engineering
+    - LLM-based code evolution and maintenance
+    - LLM-based refactor
+- **Datasets and Evaluation**
+    - Datasets for LLM4Code training
+    - Datasets for LLM4Code evaluation
+    - Automated dataset generation/augmentation
+    - Empirical studies on LLM4Code
+- **Model design and optimization on LLM4Code**
+    - Model architecture design
+    - Model hyperparameter tuning
+    - Prompt tuning and prompt engineering
+    - Pretraining objective design
+    - Model alignment
+    - Model optimization/distillation/quantization
 
 
 ## Research & Position Papers
 
 This workshop accepts both research papers and position papers:
 
-* **Research papers** (4 - 8 pages) on novel approaches, tools, datasets, or studies.
-* **Position papers** (1- 4 pages) on novel ideas and positions that have yet to be fully developed.
+- **Research papers** (4 - 8 pages) on novel approaches, tools, datasets, or studies.
+- **Position papers** (1- 4 pages) on novel ideas and positions that have yet to be fully developed.
 
 All papers will be submitted via HotCRP and be reviewed in double-blinded. The submission should comply with the ACM format (in line with ICSE 2024) and should present the original contribution. At least one author of each accepted paper should register for the workshop and present the paper in the workshop.
 

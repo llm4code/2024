@@ -26,10 +26,14 @@
       </div> -->
 
       <div class="footer-col">
-        {{- site.description | escape -}}
+        {{ site.description | escape }}
+        <!-- Social Information -->
+        <div class="footer-social-media">
+          {%- if site.github_username -%}
+          GitHub: <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><span class="username">@{{ site.github_username| escape }}</span></a>
+          {%- endif -%}
+        </div>
       </div>
     </div>
-
   </div>
-
 </footer>
