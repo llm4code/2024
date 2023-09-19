@@ -5,6 +5,7 @@ permalink: /program/
 ---
 
 <div class="headerless">
+
 | | |
 |-------------------|--------------------------------|
 | 8:30am - 9:00am   | _Workshop Opening_             |
