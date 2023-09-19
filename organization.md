@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Organization
+layout: home
 permalink: /organization/
 ---
 

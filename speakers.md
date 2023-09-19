@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Speakers
+layout: home
 permalink: /speakers/
 ---
 

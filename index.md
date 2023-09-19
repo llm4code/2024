@@ -4,7 +4,6 @@
 
 title: Home
 layout: home
-order: 1
 ---
 
 ## About LLM4Code 2024

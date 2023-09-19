@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Call for Papers
+layout: home
 permalink: /call/
 ---
 
@@ -9,32 +9,32 @@ permalink: /call/
 This workshop accepts (not limited to) the submissions of the following topics:
 
 * LLM applications on code-relevant tasks:
-** LLM-based code generation
-** LLM-based fuzzing test
-** LLM-based test generation
-** LLM-based GUI testing
-** LLM-based mobile application testing
-** LLM-based fault localization
-** LLM-based program repair
-** LLM-based vulnerability detection
-** LLM-based code maintenance
-** LLM-based program analysis
-** LLM-based code comprehension
-** LLM-based reverse engineering
-** LLM-based code evolution and maintenance
-** LLM-based refactor
+    * LLM-based code generation
+    * LLM-based fuzzing test
+    * LLM-based test generation
+    * LLM-based GUI testing
+    * LLM-based mobile application testing
+    * LLM-based fault localization
+    * LLM-based program repair
+    * LLM-based vulnerability detection
+    * LLM-based code maintenance
+    * LLM-based program analysis
+    * LLM-based code comprehension
+    * LLM-based reverse engineering
+    * LLM-based code evolution and maintenance
+    * LLM-based refactor
 * Datasets and Evaluation
-** Datasets for LLM4Code training
-** Datasets for LLM4Code evaluation
-** Automated dataset generation/augmentation
-** Empirical studies on LLM4Code
+    * Datasets for LLM4Code training
+    * Datasets for LLM4Code evaluation
+    * Automated dataset generation/augmentation
+    * Empirical studies on LLM4Code
 * Model design and optimization on LLM4Code
-** Model architecture design
-** Model hyperparameter tuning
-** Prompt tuning and prompt engineering
-** Pretraining objective design
-** Model alignment
-** Model optimization/distillation/quantization
+    * Model architecture design
+    * Model hyperparameter tuning
+    * Prompt tuning and prompt engineering
+    * Pretraining objective design
+    * Model alignment
+    * Model optimization/distillation/quantization
 
 ## Research & Position Papers
 

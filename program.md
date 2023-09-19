@@ -1,18 +1,21 @@
 ---
-layout: page
 title: Program
+layout: home
 permalink: /program/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<div class="headerless">
+| | |
+|-------------------|--------------------------------|
+| 8:30am - 9:00am   | _Workshop Opening_             |
+| 9:00am - 10:00am  | **Ketnote Talk 1**             |
+| 10:00am - 10:30am | _Coffee Break_                 |
+| 10:30am - 11:30am | **Ketnote Talk 2**             |
+| 11:30am - 2:00pm  | _Lunch_                        |
+| 2:00pm - 2:40pm   | _Paper Session 1 (3~4 papers)_ |
+| 2:40pm - 3:20pm   | _Paper Session 2 (3~4 papers)_ |
+| 3:20pm - 4:00pm   | _Paper Session 3 (3~4 papers)_ |
+| 4:00pm - 4:30pm   | _Coffee Break_                 |
+| 4:30pm - 5:30pm   | _Panel Discussion_             |
+| 5:30pm - 5:50pm   | _Workshop Closing_             |
+</div>

@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Important Dates
+layout: home
 permalink: /date/
 ---
 
