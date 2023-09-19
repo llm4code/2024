@@ -14,3 +14,7 @@ permalink: /organization/
 
 * [Yuxiang Wei](https://yuxiang.cs.illinois.edu/) (UIUC, USA)
 * [Yifeng Ding](https://natedingyifeng.github.io/) (UIUC, USA)
+
+## Web Contributor
+
+* [Jiawei Liu](https://jiawei-site.github.io/) (UIUC, USA)
