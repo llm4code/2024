@@ -8,6 +8,6 @@ permalink: /speakers/
 
 TBA
 
-## Panelist
+## Panelists
 
 TBA

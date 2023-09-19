@@ -2,13 +2,11 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Home
+title: About
 layout: home
 ---
 
-## About LLM4Code 2024
-
-Large Language Models (LLMs) have shown astonishing capabilities in diverse domains, including Software Engineering (SE). Recently, there is a growing interest in applying LLMs to assist software development and maintenance, such as code generation and comprehension, test generation, as well as program repair. Although the application of LLMs on code-relevant tasks has shown very promising performance, there is a huge potential to further explore this rapidly growing domain. 
+Large Language Models (LLMs) have shown astonishing capabilities in diverse domains, including Software Engineering (SE). Recently, there is a growing interest in applying LLMs to assist software development and maintenance, such as code generation and comprehension, test generation, as well as program repair. Although the application of LLMs on code-relevant tasks has shown very promising performance, there is a huge potential to further explore this rapidly growing domain.
 
 The motivation of this workshop is to provide a platform for academics and practitioners to discuss and share their ideas on applying and developing LLMs to solve code-relevant problems in SE activities. This workshop is concerned with the research on (i) how to better apply LLMs to solve code-relevant tasks, (ii) how to design better LLMs for code-relevant tasks, and (iii) how to better benchmark LLMs on code-relevant tasks.
 
