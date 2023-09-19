@@ -79,7 +79,7 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: $nav-color;
     // line-height: $base-line-height;
     display: block;
     padding: 5px 0;
@@ -90,6 +90,10 @@
     }
 
     // margin-left: 20px;
+  }
+  .page-link.active {
+    color: $nav-active-color;
+    font-weight: bold;
   }
 
   @media screen and (min-width: $on-medium) {
