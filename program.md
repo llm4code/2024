@@ -4,6 +4,12 @@ layout: home
 permalink: /program/
 ---
 
+<style>
+    .headerless th {
+        display: none;
+    }
+</style>
+
 <div class="headerless">
 
 | | |
