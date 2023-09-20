@@ -16,6 +16,8 @@ Workshop(
 
 <p>
   <picture>
+    <source srcset="/assets/llm4code-website-mobile-light.png" media="(prefers-color-scheme: light) and (max-width: 600px)">
+    <source srcset="/assets/llm4code-website-mobile-dark.png" media="(prefers-color-scheme: dark) and (max-width: 600px)">
     <source srcset="/assets/llm4code-website-light.png" media="(prefers-color-scheme: light)">
     <source srcset="/assets/llm4code-website-dark.png" media="(prefers-color-scheme: dark)">
     <!-- dark version by default -->
