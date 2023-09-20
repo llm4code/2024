@@ -3,7 +3,9 @@
  */
 .site-header {
   // border-top: 5px solid $border-color-03;
-  border-bottom: 1px solid $border-color-01;
+  // border-bottom: 1px solid $border-color-01;
+  // border-image-source: linear-gradient(45deg, #0259fa, #ff00c3);
+  // border-image-slice: 1;
   min-height: $spacing-unit * 1.865;
   // line-height: $base-line-height * $base-font-size * 2.25;
   padding-top: $spacing-unit;
@@ -38,10 +40,22 @@
 .site-description {
   font-family: $code-font-family;
   color: $brand-color;
-  // margin-bottom: 0;
-  margin: 10px 0;
+  margin-top: 10px;
+  margin-bottom: 25px;
+
+  // padding-bottom: 10px;
+  // border-bottom: 3px solid $brand-color;
+  // border-image-source: linear-gradient(45deg, #0259fa, #ff00c3);
+  // border-image-slice: 1;
+  // border-width: 3px;
   // border: 1px solid black;
   // text-align: start;
+}
+
+@media (prefers-color-scheme: dark) {
+  .site-description {
+    border-image-source: linear-gradient(45deg, #5cd6ff, #ff62d5);
+  }
 }
 
 .custom-ul {
@@ -53,15 +67,15 @@
 }
 
 // li::marker {
-  // content: attr("bullet");
-  // content: "bullet";
+// content: attr("bullet");
+// content: "bullet";
 // }
 
 .site-description> :last-child {
   margin-bottom: 0;
 }
 
-@supports ((background-clip: text) or (-webkit-background-clip: text) or (-moz-background-clip: text)) and ((-webkit-text-fill-color: transparent) or (-moz-text-fill-color: transparent)) {
+@supports ((background-clip: text) or (-webkit-background-clip: text) or (-moz-background-clip: text)) and ((-webkit-text-fill-color: transparent) or (-moz-text-fill-color: transparent)) and (background: linear-gradient(to top, red, blue)) {
   .title-gradient {
     background-image: linear-gradient(45deg, #0259fa, #ff00c3);
     background-size: 100%;
@@ -79,20 +93,45 @@
   }
 }
 
+.fancy-border {
+  border: 1px solid $border-color-01;
+}
+
+
+@supports (background: linear-gradient(to top, red, blue)) {
+  .fancy-border {
+    border: 5px solid;
+    border-image-source: linear-gradient(45deg, #0259fa, #ff00c3);
+    border-image-slice: 1;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .fancy-border {
+      border-image-source: linear-gradient(45deg, #5cd6ff, #ff62d5);
+    }
+  }
+}
+
+.site-nav-wrapper {
+  @extend .fancy-border;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
 .site-nav {
   font-family: $heading-font-family;
   @include relative-font-size(1.25);
   // position: absolute;
   // top: 9px;
   // right: $spacing-unit * .5;
-  background-color: $background-color;
-  // border: 1px solid $border-color-01;
   // border-radius: 5px;
   // text-align: right;
+  padding-bottom: 5px;
 
-  .nav-trigger {
-    display: none;
-  }
+  // .nav-trigger {
+  //   display: none;
+  // }
 
   .menu-icon {
     float: right;
@@ -180,9 +219,18 @@
 /**
  * Site footer
  */
-.site-footer {
-  border-top: 1px solid $border-color-01;
+// .site-footer {
+//   border-top: 1px solid $border-color-01;
+//   padding: $spacing-unit / 2 0;
+// }
+
+.footer-col-wrapper {
+  @extend .fancy-border;
   padding: $spacing-unit / 2 0;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  // border-top: 1px solid $border-color-01;
 }
 
 .footer-heading {
@@ -249,7 +297,7 @@
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  padding: $spacing-unit / 2 0;
   flex: 1 0 auto;
 }
 

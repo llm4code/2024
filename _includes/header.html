@@ -2,7 +2,7 @@
 
   <!-- <div style="width: 100%; height: 400px; overflow: hidden; background-position: center center; background-image: url('/assets/background.jpg');"> -->
   <!-- <img src="/assets/background.png" width="100%"> -->
-  </div>
+  <!-- </div> -->
   <div class="wrapper">
     <!-- https://stackoverflow.com/questions/13266369/how-to-change-the-default-order-pages-in-jekyll -->
     <!-- {%- assign sorted_pages = site.pages | sort:"order" -%} -->
@@ -22,6 +22,7 @@
     </div>
 
     {%- if page_paths -%}
+    <div class="site-nav-wrapper">
       <nav class="site-nav">
         <!-- <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
@@ -41,6 +42,7 @@
           {%- endfor -%}
         </div>
       </nav>
+    </div>
     {%- endif -%}
   </div>
 </header>
