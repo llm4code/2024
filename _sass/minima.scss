@@ -2,9 +2,9 @@
 
 // Define defaults for each variable.
 
-$base-font-family: "Lora", serif !default;
-$heading-font-family: "Mukta", sans-serif !default;
-$code-font-family: "Inconsolata", monospace !default;
+$base-font-family: "Lora-Local", "Lora", serif !default;
+$heading-font-family: "Mukta-Local", "Mukta", sans-serif !default;
+$code-font-family: "Inconsolata-Local", "Inconsolata", monospace !default;
 $base-font-size: 16px !default;
 $base-font-weight: 400 !default;
 $small-font-size: $base-font-size * 0.875 !default;
@@ -15,7 +15,7 @@ $spacing-unit: 30px !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width: 800px !default;
+$content-width: 1100px !default;
 
 $on-palm: 600px !default;
 $on-laptop: 800px !default;
