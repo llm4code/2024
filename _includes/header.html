@@ -9,8 +9,17 @@
     {%- assign default_paths = sorted_pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <!-- <div class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</div> -->
-    <!-- <div class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</div> -->
-    <div class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</div>
+    <div>
+      <!-- <span class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</span> -->
+      <span class="site-title title-gradient" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</span>
+    </div>
+    <!-- <blockquote>Colocated with ICSE'24</blockquote> -->
+    <div class="site-description">
+      <!-- <div>The First International Workshop on Large Language Models for Code</div>
+      <div>Co-located with ICSE'24</div> -->
+      {% capture my_include %}{% include description.md %}{% endcapture %}
+      {{ my_include | markdownify }}
+    </div>
 
     {%- if page_paths -%}
       <nav class="site-nav">

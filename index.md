@@ -6,6 +6,14 @@ title: About
 layout: home
 ---
 
+<!-- ```python
+Workshop(
+   name='LLM4Code (2024)',
+   location='Lisbon, Portugal',
+   main_conference='ICSE',
+)
+``` -->
+
 <img src="/assets/background.jpg" width="100%">
 
 Large Language Models (LLMs), which are large-scale models being trained on massive textual corpora, have achieved significant advances in various domains, including Software Engineering (SE). Recently, there is a growing interest in applying LLMs to assist software development and maintenance, such as code generation and comprehension, test generation, as well as program repair. Although the application of LLMs on code-relevant tasks has shown very promising performance, there is a huge potential to further explore this rapidly growing domain. 
