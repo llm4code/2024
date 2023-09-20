@@ -10,6 +10,7 @@
   // line-height: $base-line-height * $base-font-size * 2.25;
   padding-top: $spacing-unit;
   padding-bottom: $spacing-unit / 2;
+  text-align: start;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -67,7 +68,7 @@
   padding-left: 0;
   list-style: none;
   list-style-position: inside;
-  text-align: start;
+  // text-align: start;
 }
 
 // li::marker {
@@ -174,6 +175,7 @@
     // line-height: $base-line-height;
     display: block;
     padding: 5px 0;
+    white-space: nowrap;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -223,6 +225,9 @@
 /**
  * Site footer
  */
+.site-footer {
+  text-align: start;
+}
 // .site-footer {
 //   border-top: 1px solid $border-color-01;
 //   padding: $spacing-unit / 2 0;
