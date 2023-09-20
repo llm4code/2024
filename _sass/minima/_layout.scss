@@ -459,3 +459,15 @@
 .footer-social-media {
   margin-top: 5px;
 }
+
+/* Default styles for light mode */
+#demonstration-img {
+  content: url('/assets/llm4code-website-light.png');
+}
+
+/* Styles for dark mode */
+@media (prefers-color-scheme: dark) {
+  #demonstration-img {
+      content: url('/assets/llm4code-website-dark.png');
+  }
+}
