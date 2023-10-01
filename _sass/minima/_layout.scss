@@ -468,3 +468,10 @@
 .footer-social-media {
   margin-top: 5px;
 }
+
+
+.note {
+  @include relative-font-size(0.9375);
+  color: $brand-color;
+  // font-style: italic;
+}

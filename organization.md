@@ -17,5 +17,7 @@ permalink: /organization/
 
 ## Web Chair
 
-* [Yuxiang Wei](https://yuxiang.cs.illinois.edu/) (UIUC, USA)
 * [Yifeng Ding](https://natedingyifeng.github.io/) (UIUC, USA)
+* [Yuxiang Wei](https://yuxiang.cs.illinois.edu/) (UIUC, USA)
+
+<p class="note">📝 <em>All names are sorted alphabetically by last name.</em></p>
