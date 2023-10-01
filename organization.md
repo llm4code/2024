@@ -12,7 +12,7 @@ permalink: /organization/
 
 ## Publicity Chair
 * [Jiawei Liu](https://jiawei-site.github.io/) (UIUC, USA)
-* [Junwei Liu] (Fudan University, China)
+* Junwei Liu (Fudan University, China)
 
 ## Web Chair
 
