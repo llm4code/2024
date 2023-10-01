@@ -32,6 +32,10 @@
           {%- if site.github_username -%}
           GitHub: <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><span class="username">@{{ site.github_username| escape }}</span></a>
           {%- endif -%}
+
+          {%- if site.x_username -%}
+          Twitter: <a href="https://twitter.com/{{ site.x_username| cgi_escape | escape }}"><span class="username">@{{ site.x_username| escape }}</span></a>
+          {%- endif -%}
         </div>
       </div>
     </div>
