@@ -10,11 +10,11 @@ permalink: /organization/
 * [Lin Tan](https://www.cs.purdue.edu/homes/lintan/) (Purdue University, USA)
 * [Lingming Zhang](http://lingming.cs.illinois.edu/) (UIUC, USA)
 
+## Publicity Chair
+* [Jiawei Liu](https://jiawei-site.github.io/) (UIUC, USA)
+* [Junwei Liu] (Fudan University, China)
+
 ## Web Chair
 
 * [Yuxiang Wei](https://yuxiang.cs.illinois.edu/) (UIUC, USA)
 * [Yifeng Ding](https://natedingyifeng.github.io/) (UIUC, USA)
-
-## Web Contributor
-
-* [Jiawei Liu](https://jiawei-site.github.io/) (UIUC, USA)
