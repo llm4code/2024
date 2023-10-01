@@ -6,7 +6,7 @@ permalink: /organization/
 
 ## Organizing Committee
 
-* [Prem Devanbu](https://web.cs.ucdavis.edu/~devanbu/)
+* [Prem Devanbu](https://web.cs.ucdavis.edu/~devanbu/) (UC Davis, USA)
 * [Yiling Lou](https://yilinglou.github.io/) (Fudan University, China)
 * [Lin Tan](https://www.cs.purdue.edu/homes/lintan/) (Purdue University, USA)
 * [Lingming Zhang](http://lingming.cs.illinois.edu/) (UIUC, USA)
