@@ -41,8 +41,8 @@ This workshop accepts (not limited to) the submissions of the following topics:
 
 This workshop accepts both research papers and position papers:
 
-- **Research papers** (4 - 8 pages) on novel approaches, tools, datasets, or studies.
-- **Position papers** (1- 4 pages) on novel ideas and positions that have yet to be fully developed.
+- **Research papers** (8 pages including references) on novel approaches, tools, datasets, or studies.
+- **Position papers** (2 pages including references) on novel ideas and positions that have yet to be fully developed.
 
 All papers will be submitted via HotCRP and be reviewed in double-blinded. The submission should comply with the ACM format (in line with ICSE 2024) and should present the original contribution. At least one author of each accepted paper should register for the workshop and present the paper in the workshop.
 
