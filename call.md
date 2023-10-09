@@ -7,7 +7,7 @@ permalink: /call/
 
 ## Research & Position Papers
 
-> Submission Link: https://llm4code2024.hotcrp.com/
+> *Submission Link:* [https://llm4code2024.hotcrp.com/](https://llm4code2024.hotcrp.com/)
 
 This workshop accepts both research papers and position papers:
 
