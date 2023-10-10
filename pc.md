@@ -11,7 +11,7 @@ permalink: /pc/
 - [Xinyun Chen](https://jungyhuk.github.io/) (Google DeepMind, USA)
 - [Shing-Chi Cheung](https://home.cse.ust.hk/~scc/) (The Hong Kong University of Science and Technology, China)
 - [Milos Gligoric](https://users.ece.utexas.edu/~gligoric/) (The University of Texas at Austin, USA)
-- [Mark harman](https://www0.cs.ucl.ac.uk/staff/m.harman/) (Meta platforms Inc. and UCL, UK)
+- [Mark Harman](https://www0.cs.ucl.ac.uk/staff/m.harman/) (Meta platforms and University College London, UK)
 - [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (Nanyang Technological University, Singapore)
 - [Jian-Guang Lou](https://www.microsoft.com/en-us/research/people/jlou/) (Microsoft Research, China)
 - [Ali Mesbah](https://people.ece.ubc.ca/amesbah/) (University of British Columbia, Canada)
