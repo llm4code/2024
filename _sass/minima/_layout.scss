@@ -63,6 +63,19 @@
   }
 }
 
+#dark-twitter-timeline {
+  display: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  #dark-twitter-timeline {
+    display: block;
+  }
+  #light-twitter-timeline {
+    display: none;
+  }
+}
+
 .custom-ul {
   margin-left: 0;
   padding-left: 0;

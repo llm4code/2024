@@ -42,31 +42,11 @@ This workshop aims to achieve multiple goals as follows. Firstly, this workshop 
 
 To achieve these goals, this workshop will be scheduled with diverse event formats, including keynote talks, research paper presentations, and panel discussion. We believe that this workshop will provide abundant opportunities for both academic and industrial participants to discuss not only in the specific works but also in the high-level directions of this area.
 
-<!-- Large Language Models (LLMs), which are large-scale models being trained on massive textual corpora, have achieved significant advances in various domains, including Software Engineering (SE). Recently, there is an increasing number of papers on leveraging LLMs to assist software development and maintenance tasks, such as code generation, code comprehension, test generation, as well as program repair, demonstrating a huge potential of LLMs in many code-related SE tasks. While the fast development of LLMs promises to impact various domains in software engineering, the majority of these LLM advances are currently taking place in communities outside of software engineering, such as the NLP community, who may not be fully aware of or able to address the distinct challenges posed by software engineering contexts. -->
 
-<!-- ## Code
-
-```python
-def nate() -> str:
-    return "Nate"
-print(nate() + "cows")
-```
-
-
-## Lists
-
-- Item 1
-- Item 2
-  - Item 2.1
-
-## Maths
-
-$$
-\mathbb K\mathit{aTeX}
-$$
-
-## Tables
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 | -->
+<div id="dark-twitter-timeline">
+  <a class="twitter-timeline" data-theme="dark" href="https://twitter.com/llm4code?ref_src=twsrc%5Etfw">Tweets by llm4code</a>
+</div>
+<div id="light-twitter-timeline">
+  <a class="twitter-timeline light-theme" data-theme="light" href="https://twitter.com/llm4code?ref_src=twsrc%5Etfw">Tweets by llm4code</a>
+</div>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
