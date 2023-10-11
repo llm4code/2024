@@ -9,4 +9,4 @@ permalink: /date/
 * Submission date: **Dec 7, 2023**
 * Notification date: **Jan 11, 2024**
 * Camera-ready date: **Jan 25, 2024**
-* Workshop date: **April 14, 2024** (tentative)
+* Workshop date: **April 16, 2024** (tentative)
