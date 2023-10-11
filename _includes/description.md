@@ -5,5 +5,5 @@
   <li> 💼 Co-Located with <a href="https://conf.researchr.org/home/icse-2024">ICSE 2024</a></li>
   <li> 🧭 Lisbon, Portugal</li>
   <li> 📅 Apr 14, 2024</li>
-  <li> 𝕏 Follow us on Twitter: <a href="https://twitter.com/llm4code">@llm4code</a>!</li>
+  <li> <img src="/assets/twitter.png" width="12" height="12"> Follow us on Twitter: <a href="https://twitter.com/llm4code">@llm4code</a>!</li>
 </ul>
