@@ -31,6 +31,7 @@ x_username: llm4code
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 header_pages:
   - index.md
@@ -41,6 +42,17 @@ header_pages:
   - organization.md
   - pc.md
 
+twitter:
+  username: llm4code
+  card: summary
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/llm4code-logo-light.png
+
+exclude: ["README.md", "Gemfile", "Gemfile.lock", "LICENSE"]
 # This setting does not work and would be overrided
 # https://github.com/github/pages-gem/blob/e70dc2860262bc43be02172dde070d1884785084/lib/github-pages/configuration.rb#L57
 # kramdown:
