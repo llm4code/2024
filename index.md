@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: About
+title: Home
 layout: home
 ---
 
@@ -24,6 +24,14 @@ Workshop(
     <img src="/assets/llm4code-website-dark.png">
   </picture>
 </p>
+
+We are pleased to announce that the 1st International Workshop on Large Language Models for Code (**LLM4Code**) will take place in Lisbon, co-located with [ICSE 2024](https://conf.researchr.org/home/icse-2024)! The submission deadline is **Dec 7th**, 2023. The link to submit is [here](https://llm4code2024.hotcrp.com/).
+
+## News
+
+- **Oct 11, 2023** We have launched our Twitter account ([@llm4code](https://twitter.com/llm4code)) with official hashtag **#LLM4Code**!
+
+## About
 
 Large Language Models (LLMs), which are large-scale models being trained on massive textual corpora, have achieved significant advances in various domains, including Software Engineering (SE). Recently, there is a growing interest in applying LLMs to assist software development and maintenance, such as code generation and comprehension, test generation, as well as program repair. Although the application of LLMs on code-relevant tasks has shown very promising performance, there is a huge potential to further explore this growing domain. 
 
