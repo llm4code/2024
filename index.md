@@ -42,11 +42,16 @@ This workshop aims to achieve multiple goals as follows. Firstly, this workshop 
 
 To achieve these goals, this workshop will be scheduled with diverse event formats, including keynote talks, research paper presentations, and panel discussion. We believe that this workshop will provide abundant opportunities for both academic and industrial participants to discuss not only in the specific works but also in the high-level directions of this area.
 
+<div id="light-twitter-timeline">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">📢🚨 Call for Papers<br><br>Interested in Large Language Models for Code? Consider submitting to the 1st LLM4Code workshop at <a href="https://twitter.com/ICSEconf?ref_src=twsrc%5Etfw">@ICSEconf</a> 2024! <a href="https://twitter.com/hashtag/LLM4Code?src=hash&amp;ref_src=twsrc%5Etfw">#LLM4Code</a><br><br>🌟Website: <a href="https://t.co/RT8e8ymSpw">https://t.co/RT8e8ymSpw</a><br>🌟Deadline: Dec 7, 2023<br>🌟8-page research paper or 4-page position paper<br><br>Please help retweet!<br>🧵</p>&mdash; LLM4Code (@llm4code) <a href="https://twitter.com/llm4code/status/1712181254970281991?ref_src=twsrc%5Etfw">October 11, 2023</a></blockquote>
+</div>
 
-<!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <div id="dark-twitter-timeline">
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">📢🚨 Call for Papers<br><br>Interested in Large Language Models for Code? Consider submitting to the 1st LLM4Code workshop at <a href="https://twitter.com/ICSEconf?ref_src=twsrc%5Etfw">@ICSEconf</a> 2024! <a href="https://twitter.com/hashtag/LLM4Code?src=hash&amp;ref_src=twsrc%5Etfw">#LLM4Code</a><br><br>🌟Website: <a href="https://t.co/RT8e8ymSpw">https://t.co/RT8e8ymSpw</a><br>🌟Deadline: Dec 7, 2023<br>🌟8-page research paper or 4-page position paper<br><br>Please help retweet!<br>🧵</p>&mdash; LLM4Code (@llm4code) <a href="https://twitter.com/llm4code/status/1712181254970281991?ref_src=twsrc%5Etfw">October 11, 2023</a></blockquote>
+</div>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   <a class="twitter-timeline" data-theme="dark" href="https://twitter.com/llm4code?ref_src=twsrc%5Etfw">Tweets by llm4code</a>
 </div>
-<div id="light-twitter-timeline">
   <a class="twitter-timeline light-theme" data-theme="light" href="https://twitter.com/llm4code?ref_src=twsrc%5Etfw">Tweets by llm4code</a>
 </div> -->
