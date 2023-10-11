@@ -43,10 +43,10 @@ This workshop aims to achieve multiple goals as follows. Firstly, this workshop 
 To achieve these goals, this workshop will be scheduled with diverse event formats, including keynote talks, research paper presentations, and panel discussion. We believe that this workshop will provide abundant opportunities for both academic and industrial participants to discuss not only in the specific works but also in the high-level directions of this area.
 
 
+<!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <div id="dark-twitter-timeline">
   <a class="twitter-timeline" data-theme="dark" href="https://twitter.com/llm4code?ref_src=twsrc%5Etfw">Tweets by llm4code</a>
 </div>
 <div id="light-twitter-timeline">
   <a class="twitter-timeline light-theme" data-theme="light" href="https://twitter.com/llm4code?ref_src=twsrc%5Etfw">Tweets by llm4code</a>
-</div>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div> -->
