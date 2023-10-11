@@ -29,7 +29,7 @@ We are pleased to announce that the 1st International Workshop on Large Language
 
 ## News
 
-- **Oct 11, 2023** We have launched our Twitter account ([@llm4code](https://twitter.com/llm4code)) with official hashtag **#LLM4Code**!
+- **Oct 11, 2023** Follow us on Twitter/X ([@llm4code](https://twitter.com/llm4code)) to hear timely updates!
 
 ## About
 
