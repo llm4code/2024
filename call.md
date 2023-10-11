@@ -16,7 +16,7 @@ This workshop accepts both research papers and position papers:
 
 All papers will be submitted via HotCRP and be reviewed in double-blinded. The submission should comply with the ACM format (in line with [ICSE 2024](https://conf.researchr.org/track/icse-2024/icse-2024-research-track#submission-process)) and should present the original contribution. At least one author of each accepted paper should register for the workshop and present the paper in the workshop.
 
-**:trophy: We will announce the best paper and the best presentation awards during the workshop!**
+**🏆 We will announce the best paper and the best presentation awards during the workshop!**
 
 ## Topics
 
