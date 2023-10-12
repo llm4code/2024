@@ -76,6 +76,15 @@
   }
 }
 
+@include media-query($on-palm) {
+  #dark-twitter-timeline {
+    display: none;
+  }
+  #light-twitter-timeline {
+    display: none;
+  }
+}
+
 .custom-ul {
   margin-left: 0;
   padding-left: 0;
