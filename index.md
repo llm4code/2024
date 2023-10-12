@@ -33,7 +33,7 @@ Workshop(
 <blockquote class="twitter-tweet" data-theme="dark" data-cards="hidden" width=250 align="right"><p lang="en" dir="ltr">📢🚨 Call for Papers<br><br>Interested in Large Language Models for Code? Consider submitting to the 1st LLM4Code workshop at <a href="https://twitter.com/ICSEconf?ref_src=twsrc%5Etfw">@ICSEconf</a> 2024! <a href="https://twitter.com/hashtag/LLM4Code?src=hash&amp;ref_src=twsrc%5Etfw">#LLM4Code</a><br><br>🌟Website: <a href="https://t.co/RT8e8ymSpw">https://t.co/RT8e8ymSpw</a><br>🌟Deadline: Dec 7, 2023<br>🌟8-page research paper or 4-page position paper<br><br>Please help retweet!<br>🧵</p>&mdash; LLM4Code (@llm4code) <a href="https://twitter.com/llm4code/status/1712181254970281991?ref_src=twsrc%5Etfw">October 11, 2023</a></blockquote>
 </div>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<script async src="/assets/mobile_control.js"></script>
+<!-- <script async src="/assets/mobile_control.js"></script> -->
 
 <!-- We are pleased to announce that the 1st International Workshop on Large Language Models for Code (**LLM4Code**) will take place in Lisbon, co-located with [ICSE 2024](https://conf.researchr.org/home/icse-2024)! The submission deadline is **Dec 7th**, 2023. You can submit through [this link](https://llm4code2024.hotcrp.com/). -->
 
