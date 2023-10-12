@@ -230,7 +230,7 @@
     }
 
     .page-link {
-      display: inline;
+      display: inline-block;
       padding: 0;
 
       &:not(:last-child) {
