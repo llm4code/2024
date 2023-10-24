@@ -14,6 +14,7 @@ permalink: /pc/
 - [Mark Harman](http://www0.cs.ucl.ac.uk/staff/M.Harman/) (Meta platforms and University College London, UK)
 - [Vincent Hellendoorn](https://vhellendoorn.github.io/) (Carnegie Mellon University and Google, USA)
 - [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (Nanyang Technological University, Singapore)
+- [David Lo](http://www.mysmu.edu/faculty/davidlo/) (Singapore Management University, Singapore)
 - [Jian-Guang Lou](https://www.microsoft.com/en-us/research/people/jlou/) (Microsoft Research, China)
 - [Ali Mesbah](https://people.ece.ubc.ca/amesbah/) (University of British Columbia, Canada)
 - [Nachiappan Nagappan](https://nachinagappan.github.io/) (Meta Platforms, USA)
