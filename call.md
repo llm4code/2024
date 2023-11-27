@@ -16,6 +16,8 @@ This workshop accepts both research papers and position papers:
 
 All papers will be submitted via HotCRP and be reviewed in double-blinded. The submission should comply with the ACM format (in line with [ICSE 2024](https://conf.researchr.org/track/icse-2024/icse-2024-research-track#submission-process)) and should present the original contribution. At least one author of each accepted paper should register for the workshop and present the paper in the workshop.
 
+All accepted papers by default will appear in the ICSE 2024 workshop proceedings (i.e., the **archival** option). Meanwhile, we also provide a **non-archival** option on HotCRP for the authors who prefer to not have their papers in the proceedings. For the non-archival papers, the camera-ready version will only be posted on our workshop website (not listed on DBLP). Please note that no matter which option you choose (archival or non-archival), the submission should be fully **original** (not accepted/published anywhere else), and at least one author has to register for the workshop and present.
+
 **🏆 We will announce the best paper and the best presentation awards during the workshop!**
 
 ## Topics
