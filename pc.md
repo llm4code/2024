@@ -10,7 +10,7 @@ permalink: /pc/
 - [Tegawendé F. Bissyandé ](https://bissyande.github.io) (University of Luxembourg, Luxembourg)
 - [Xinyun Chen](https://jungyhuk.github.io/) (Google DeepMind, USA)
 - [Shing-Chi Cheung](https://home.cse.ust.hk/~scc/) (The Hong Kong University of Science and Technology, China)
-- [Cuiyun Gao](https://cuiyungao.github.io/) (Harbin Institute of Technolgy (Shenzhen), China)
+- [Cuiyun Gao](https://cuiyungao.github.io/) (Harbin Institute of Technology (Shenzhen), China)
 - [Milos Gligoric](https://users.ece.utexas.edu/~gligoric/) (The University of Texas at Austin, USA)
 - [Mark Harman](http://www0.cs.ucl.ac.uk/staff/M.Harman/) (Meta platforms and University College London, UK)
 - [Vincent Hellendoorn](https://vhellendoorn.github.io/) (Carnegie Mellon University and Google, USA)
