@@ -21,7 +21,7 @@ permalink: /pc/
 - [Ali Mesbah](https://people.ece.ubc.ca/amesbah/) (University of British Columbia, Canada)
 - [Nachiappan Nagappan](https://nachinagappan.github.io/) (Meta Platforms, USA)
 - [Graham Neubig](https://phontron.com) (Carnegie Mellon University, USA)
-- [Pengyu Nie](https://pengyunie.github.io/) (Waterloo University, Canada)
+- [Pengyu Nie](https://pengyunie.github.io/) (University of Waterloo, Canada)
 - [Mike Papadakis](https://mpapad.github.io/) (University of Luxembourg, Luxembourg)
 - [Kexin Pei](https://sites.google.com/site/kexinpeisite/) (The University of Chicago, USA)
 - [Xin Peng](https://cspengxin.github.io/) (Fudan University, China)
