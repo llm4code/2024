@@ -28,6 +28,7 @@ permalink: /pc/
 - [Denys Poshyvanyk](https://www.cs.wm.edu/~denys) (William & Mary, USA)
 - [Michael Pradel](https://software-lab.org/people/Michael_Pradel.html) (University of Stuttgart, Germany)
 - [Baishakhi Ray](https://rayb.info) (Columbia University, USA)
+- [Kensen Shi](https://research.google/people/KensenShi/) (Google Research, USA)
 - [Shin Hwei Tan](https://www.shinhwei.com/) (Concordia University, Canada)
 - [Chong Wang](https://cs-wangchong.github.io/) (Nanyang Technological University, Singapore)
 - [Yanlin Wang](https://yanlin.info/) (Sun Yat-sen University, China)
