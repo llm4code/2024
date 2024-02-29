@@ -1,0 +1,15 @@
+---
+layout: base
+---
+
+<h2>Keynote Speakers</h2>
+
+<div class="speakers">
+    {% for speaker in site.speakers %}
+    <div class="speaker">
+        <img src="/assets/speaker-images/{{ speaker.img }}" alt="{{ speaker.name }}" class="speaker-img">
+        <div class="speaker-name"><a href="{{ speaker.webpage }}" target="_blank">{{ speaker.name }}</a></div>
+        <div class="speaker-affliation"><a href="{{ speaker.affiliation_link }}" target="_blank">{{ speaker.affiliation }}</a></div>
+    </div>
+    {% endfor %}
+</div>

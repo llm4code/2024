@@ -1,13 +1,16 @@
 ---
 title: Speakers
-layout: home
+layout: speakers
 permalink: /speakers/
 ---
 
-## Keynote Speakers
+<!-- ## Keynote Speakers
 
-TBA
+{% for speaker in site.speakers %}
+  {{ speaker.name }} - {{ speaker.affiliation }}
+{% endfor %}
+
 
 ## Panelists
 
-TBA
+TBA -->

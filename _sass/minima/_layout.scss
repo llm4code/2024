@@ -497,3 +497,50 @@
   color: $brand-color;
   // font-style: italic;
 }
+
+.speakers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left; /* Centers speakers in the container */
+  // padding: 20px; /* Adds some padding around the whole container */
+}
+
+.speaker {
+  text-align: center; /* Centers the content inside each speaker div */
+  margin: 20px 20px 0 0; /* Adds margin around each speaker for spacing */
+  width: 150px; /* Sets a fixed width for each speaker div */
+  @include media-query($on-palm) {
+    width: 100px; /* Makes speaker divs full width on small screens */
+    // margin: 10px 0; /* Adjusts margin for smaller screens */
+  }
+}
+
+.speaker-img {
+  width: 100%; /* Makes the image responsive to the div's width */
+  height: auto; /* Maintains the aspect ratio of the image */
+  border-radius: 50%; /* Makes the image circular */
+  margin-bottom: 10px; /* Adds some space between the image and the text */
+  box-shadow: 0 2px 3px rgba(0,0,0,0.6); // Adds a subtle shadow
+  // @include media-query($on-palm) {
+  //   width: 60%; /* Adjusts image size on small screens */
+  //   margin: 0 auto 10px; /* Centers image and adds margin below */
+  // }
+}
+
+.speaker-name {
+  font-size: 18px; /* Sets the font size for the speaker's name */
+  font-weight: bold; /* Makes the speaker's name bold */
+  margin-bottom: 0px; /* Adds some space between the name and the affiliation */
+  font-family: $heading-font-family;
+}
+
+.speaker-affliation {
+  font-size: 16px; /* Sets the font size for the speaker's affiliation */
+  font-family: $heading-font-family;
+}
+
+.speaker-name, .speaker-affliation {
+  @include media-query($on-palm) {
+      font-size: 14px; /* Adjusts font size for smaller screens */
+  }
+}

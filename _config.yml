@@ -37,6 +37,7 @@ header_pages:
   - index.md
   - program.md
   - speakers.md
+  - papers.md
   - call.md
   - dates.md
   - organization.md
@@ -52,7 +53,11 @@ defaults:
     values:
       image: /assets/llm4code-logo-light.png
 
-exclude: ["README.md", "Gemfile", "Gemfile.lock", "LICENSE"]
+collections:
+  speakers:
+    output: true
+
+exclude: ["README.md", "Gemfile", "Gemfile.lock", "LICENSE", "utils"]
 # This setting does not work and would be overrided
 # https://github.com/github/pages-gem/blob/e70dc2860262bc43be02172dde070d1884785084/lib/github-pages/configuration.rb#L57
 # kramdown:
