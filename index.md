@@ -26,11 +26,11 @@ Workshop(
 </p>
 
 <div id="light-twitter-timeline" display="none">
-<blockquote class="twitter-tweet" data-cards="hidden" width=250 align="right"><a href="https://twitter.com/llm4code/status/1712181254970281991?ref_src=twsrc%5Etfw"></a></blockquote>
+<blockquote class="twitter-tweet" data-cards="hidden" width=250 align="right"><a href="https://twitter.com/llm4code/status/1767247998809960742?s=20"></a></blockquote>
 </div>
 
 <div id="dark-twitter-timeline" display="none">
-<blockquote class="twitter-tweet" data-theme="dark" data-cards="hidden" width=250 align="right"><a href="https://twitter.com/llm4code/status/1712181254970281991?ref_src=twsrc%5Etfw"></a></blockquote>
+<blockquote class="twitter-tweet" data-theme="dark" data-cards="hidden" width=250 align="right"><a href="https://twitter.com/llm4code/status/1767247998809960742?s=20"></a></blockquote>
 </div>
 <!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 <script async src="/assets/twitter_widgets.js"></script>
