@@ -4,7 +4,11 @@ layout: home
 permalink: /program/
 ---
 
-| Time | Session |
+## Program
+
+LLM4Code 2024 program is availabe on [ICSE 2024 website](https://conf.researchr.org/program/icse-2024/program-icse-2024/?track=LLM4Code).
+
+<!-- | Time | Session |
 |-------------------|--------------------------------|
 | 8:30am -- 9:00am   | _Workshop Opening_             |
 | 9:00am -- 10:00am  | **Keynote Talk 1**             |
@@ -16,4 +20,4 @@ permalink: /program/
 | 3:20pm -- 4:00pm   | _Paper Session 3 (3~4 papers)_ |
 | 4:00pm -- 4:30pm   | _Coffee Break_                 |
 | 4:30pm -- 5:30pm   | _Panel Discussion_             |
-| 5:30pm -- 5:50pm   | _Workshop Closing_             |
+| 5:30pm -- 5:50pm   | _Workshop Closing_             | -->
