@@ -511,7 +511,7 @@
   margin: 20px 0px 10px 0px; /* Adds margin around each speaker for spacing */
   width: 100%; /* Sets a fixed width for each speaker div */
   @include media-query($on-palm) {
-    width: 100px; /* Makes speaker divs full width on small screens */
+    width: 500px; /* Makes speaker divs full width on small screens */
     // margin: 10px 0; /* Adjusts margin for smaller screens */
   }
 }
