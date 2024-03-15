@@ -6,10 +6,17 @@ layout: base
 
 <div class="speakers">
     {% for speaker in site.speakers %}
-    <div class="speaker">
-        <img src="/assets/speaker-images/{{ speaker.img }}" alt="{{ speaker.name }}" class="speaker-img">
-        <div class="speaker-name"><a href="{{ speaker.webpage }}" target="_blank">{{ speaker.name }}</a></div>
-        <div class="speaker-affliation"><a href="{{ speaker.affiliation_link }}" target="_blank">{{ speaker.affiliation }}</a></div>
+    <div class="{{ speaker.classname }}">
+        <div class="speaker" style="float: left; width: 18%">
+            <img src="/assets/speaker-images/{{ speaker.img }}" alt="{{ speaker.name }}" class="speaker-img">
+            <div class="speaker-name"><a href="{{ speaker.webpage }}" target="_blank">{{ speaker.name }}</a></div>
+            <div class="speaker-affliation"><a href="{{ speaker.affiliation_link }}" target="_blank">{{ speaker.affiliation }}</a></div>
+        </div>
+        <div class="keynote" style="float: left; text-align: left; width: 82%">
+            <h2 style="font-size: 23px">{{ speaker.title }}</h2>
+            <p><b>Abstract</b>: {{ speaker.abstract }}</p>
+            <p><b>Bio</b>: {{ speaker.bio }}</p>
+        </div>
     </div>
     {% endfor %}
 </div>
