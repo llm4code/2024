@@ -8,4 +8,5 @@ affiliation: Hugging Face
 affiliation_link: https://huggingface.co/
 img: loubna.jpeg
 classname: speaker1
+slides: /slides/BigCode-LLM4Code.pdf
 ---

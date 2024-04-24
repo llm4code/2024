@@ -8,4 +8,5 @@ affiliation: Meta
 affiliation_link: https://www.meta.com/
 img: baptiste.jpeg
 classname: speaker2
+slides: /slides/CodeLlama-LLM4Code.pdf
 ---
