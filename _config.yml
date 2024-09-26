@@ -57,7 +57,7 @@ collections:
   speakers:
     output: true
 
-exclude: ["README.md", "Gemfile", "Gemfile.lock", "LICENSE", "utils"]
+exclude: ["README.md", "Gemfile", "Gemfile.lock", "LICENSE", "utils", "vendor"]
 # This setting does not work and would be overrided
 # https://github.com/github/pages-gem/blob/e70dc2860262bc43be02172dde070d1884785084/lib/github-pages/configuration.rb#L57
 # kramdown:
