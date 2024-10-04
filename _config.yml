@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   ICSE 2024 Workshop on Large Language Models for Code
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: llm4code.github.io
-url: "https://llm4code.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://llm4code.github.io/2024" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: llm4code
 x_username: llm4code
 
