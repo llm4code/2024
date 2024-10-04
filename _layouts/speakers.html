@@ -8,7 +8,7 @@ layout: base
     {% for speaker in site.speakers %}
     <div class="{{ speaker.classname }}">
         <div class="speaker" style="float: left; width: 18%">
-            <img src="{{ site.baseurl }/assets/speaker-images/{{ speaker.img }}" alt="{{ speaker.name }}" class="speaker-img">
+            <img src="{{ site.baseurl }}/assets/speaker-images/{{ speaker.img }}" alt="{{ speaker.name }}" class="speaker-img">
             <div class="speaker-name"><a href="{{ speaker.webpage }}" target="_blank">{{ speaker.name }}</a></div>
             <div class="speaker-affliation"><a href="{{ speaker.affiliation_link }}" target="_blank">{{ speaker.affiliation }}</a></div>
         </div>
